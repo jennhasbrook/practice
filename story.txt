@@ -6,3 +6,5 @@ I wonder how long it will take to finish 8 windows.
 Turns out 3 days. 
 I continue to work to avoid Dani's wrath.
 I will continue to work to learn.
+make change add commit push
+make change add
